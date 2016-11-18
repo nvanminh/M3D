@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [money3]
+    WITH PASSWORD = N'Uxveffes>yjybnEKdqznjkhhmsFT7_&#$!~<ctlkbatlLakq', SID = 0x870647B2B5990B43BF794DA5050BDFD5, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

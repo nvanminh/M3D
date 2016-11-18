@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[p_Testing_Get]	
+AS
+BEGIN    
+	SELECT GETDATE()
+END
