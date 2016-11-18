@@ -1143,6 +1143,8 @@
     <None Include="M3.Staging.publish.xml" />
     <None Include="M3.Test.publish.xml" />
     <None Include="M3.Uat.publish.xml" />
+    <None Include="Assemblies\SimMetrics.dll" />
+    <None Include="Assemblies\TextFunctions.dll" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="SimMetrics">
