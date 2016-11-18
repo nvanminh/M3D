@@ -1138,8 +1138,6 @@
     <Build Include="Security\Permissions.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assemblies\SimMetrics.dll" />
-    <None Include="Assemblies\TextFunctions.dll" />
     <None Include="M3.Dev.publish.xml" />
     <None Include="M3.Product.publish.xml" />
     <None Include="M3.Staging.publish.xml" />
