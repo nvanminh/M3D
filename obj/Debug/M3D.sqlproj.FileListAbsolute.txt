@@ -1,0 +1,9 @@
+D:\Source\M3\M3D\bin\Debug\M3D.dacpac
+D:\Source\M3\M3D\obj\Debug\Model.xml
+D:\Source\M3\M3D\obj\Debug\refactor.xml
+D:\Source\M3\M3D\obj\Debug\postdeploy.sql
+D:\Source\M3\M3D\obj\Debug\predeploy.sql
+D:\Source\M3\M3D\obj\Debug\M3D.dll
+D:\Source\M3\M3D\obj\Debug\M3D.pdb
+D:\Source\M3\M3D\bin\Debug\M3D.dll
+D:\Source\M3\M3D\bin\Debug\M3D.pdb
