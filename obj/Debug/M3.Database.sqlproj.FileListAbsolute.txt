@@ -1,0 +1,8 @@
+D:\Source\M3D\bin\Debug\M3.Database.dacpac
+D:\Source\M3D\bin\Debug\M3.Database.dll
+D:\Source\M3D\bin\Debug\M3.Database.pdb
+D:\Source\M3D\bin\Debug\SimMetrics.dll
+D:\Source\M3D\bin\Debug\TextFunctions.dll
+D:\Source\M3D\obj\Debug\M3.Database.sqlprojResolveAssemblyReference.cache
+D:\Source\M3D\obj\Debug\M3.Database.dll
+D:\Source\M3D\obj\Debug\M3.Database.pdb
